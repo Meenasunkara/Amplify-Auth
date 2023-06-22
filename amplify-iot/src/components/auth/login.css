@@ -1,0 +1,14 @@
+.login-container {
+    background-color: #1f7485; /* Set the background color of the container */
+  }
+  
+  .login-title {
+    color: #672497; /* Set the color of the login title */
+  }
+  
+  .login-button {
+    background-color: #0e4971; /* Set the background color of the login button */
+    border-color: #406d90; /* Set the border color of the login button */
+    color: #ffffff; /* Set the text color of the login button */
+  }
+  
